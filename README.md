@@ -1,5 +1,6 @@
 Requires Python3 and packages pytorch and OpenCV
-Install with 
+
+Install with: 
 	pip install torch
 	pip install cv2
 
